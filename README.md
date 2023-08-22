@@ -1,4 +1,6 @@
-# Podcast Summarizer
+# SnapPod Synopses
+
+https://snappod-synopses-7e2xvujqkuhd4vwcekcere.streamlit.app/
 
 ## Summarize & highlight podcast episodes for busy listeners
 
